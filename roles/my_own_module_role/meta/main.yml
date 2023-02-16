@@ -1,0 +1,24 @@
+galaxy_info:
+  role_name: my_own_module_role
+  author: Nikolay Mokrov
+  description: This role executes my_own_module for ansible
+  company: Netology DEVOPS-22
+
+  license: MIT
+
+  min_ansible_version: 2.10
+
+  platforms:
+   - name: Centos
+     versions:
+     - 7
+     - 8
+   - name: RHEL
+     versions:
+     - 7
+     - 8
+
+  galaxy_tags:
+    - my_own_module
+
+dependencies: []

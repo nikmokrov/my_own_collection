@@ -1,0 +1,4 @@
+---
+my_own_module_path: "test123.txt"
+my_own_module_content: "test123"
+my_own_module_append: True

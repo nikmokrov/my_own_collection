@@ -1,0 +1,8 @@
+---
+- name: Run my_own_module
+  my_own_module:
+    path: "{{ my_own_module_path }}"
+    content: "{{ my_own_module_content }}"
+    append: "{{ my_own_module_append }}"
+
+
